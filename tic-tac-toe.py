@@ -1,3 +1,6 @@
+# tic-tac-toe game
+# use tkinter module
+
 from tkinter import *
 import tkinter.messagebox
 
